@@ -1,0 +1,38 @@
+## git-lfs##
+
+#画像
+*.jpgフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.jpegフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.pngフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.gifフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.psdフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.aiフィルタ=lfs diff=lfs マージ=lfs -テキスト
+
+#オーディオ
+*.mp3フィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.wavフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.oggフィルタ=lfs diff=lfs マージ=lfs -テキスト
+
+#ビデオ
+*.mp4フィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.movフィルタ=lfs diff=lfs マージ=lfs -テキスト
+
+#3D オブジェクト
+*.FBX フィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.fbx フィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.blend フィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.obj フィルター=lfs diff=lfs マージ=lfs -テキスト
+
+#等
+*.a フィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.exr フィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.tgaフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.pdfフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.zipフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.dllフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.unitypackage フィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.aifフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.ttfフィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.rns フィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.reason フィルタ=lfs diff=lfs マージ=lfs -テキスト
+*.lxo フィルタ=lfs diff=lfs マージ=lfs -テキスト
